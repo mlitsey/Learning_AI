@@ -1,0 +1,61 @@
+﻿Month,Day,variable,value
+5,1,Solar.R,41
+5,2,Ozone,36
+5,3,Temp,12
+5,4,Wind,18
+5,5,Solar.R, NaN
+5,6,Ozone,28
+5,7,Temp,23
+5,8,Wind,19
+5,9,Solar.R,8
+5,10,Ozone, NaN
+5,11,Temp,7
+5,12,Wind,16
+5,13,Solar.R,11
+5,14,Ozone,14
+5,15,Temp,18
+5,16,Wind,14
+5,17,Solar.R,34
+5,18,Ozone,6
+5,19,Temp,30
+5,20,Wind,11
+5,21,Solar.R,1
+5,22,Ozone,11
+5,23,Temp,4
+5,24,Wind,32
+5,25,Ozone, NaN
+5,26,Ozone, NaN
+5,27,Ozone, NaN
+5,28,Ozone,23
+5,29,Ozone,45
+5,30,Ozone,15
+9,1,Temp,91
+9,2,Temp,92
+9,3,Temp,93
+9,4,Temp,93
+9,5,Temp,87
+9,6,Temp,84
+9,7,Temp,80
+9,8,Temp,78
+9,9,Temp,75
+9,10,Temp,73
+9,11,Temp,81
+9,12,Temp,76
+9,13,Temp,77
+9,14,Temp,71
+9,15,Temp,71
+9,16,Temp,78
+9,17,Temp,67
+9,18,Temp,76
+9,19,Temp,68
+9,20,Temp,82
+9,21,Temp,64
+9,22,Temp,71
+9,23,Temp,81
+9,24,Temp,69
+9,25,Temp,63
+9,26,Temp,70
+9,27,Temp,77
+9,28,Temp,75
+9,29,Temp,76
+9,30,Temp,68
